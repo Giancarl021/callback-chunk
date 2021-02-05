@@ -1,6 +1,6 @@
 {
   "name": "callback-chunk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple JS library to chunk an array of callbacks asynchronously",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "repository": "https://github.com/Giancarl021/callback-chunk.git",
   "author": "Giancarlo Fontela da Luz <gian.f.luz@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "batch",
+    "chunk"
+  ]
 }

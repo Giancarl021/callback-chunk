@@ -38,7 +38,7 @@ await chunk(
 ## Example
 
 ```javascript
-const chunk = require('./index');
+const chunk = require('callback-chunk');
 
 async function main() {
     const callbacks = new Array(30)
