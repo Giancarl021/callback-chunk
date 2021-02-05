@@ -1,4 +1,4 @@
-module.exports = async function (callbacks, ticks, logger = () => {}) {
+module.exports = async function (callbacks, ticks, logger = null) {
     const echo = typeof logger === 'function';
     const result = [];
     const promises = [];

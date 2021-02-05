@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A simple JS library to chunk an array of callbacks asynchronously",
   "main": "index.js",
+  "scripts": {
+    "test": "node test.spec.js"
+  },
   "repository": "https://github.com/Giancarl021/callback-chunk.git",
   "author": "Giancarlo Fontela da Luz <gian.f.luz@hotmail.com>",
   "license": "MIT"
